@@ -56,7 +56,7 @@ In compliance with Meta Platform Policies and data privacy regulations, you have
 
 To request data deletion:
 1. **Via Facebook Messenger:** Send a message to the official page **Hyperion by Nhyle** stating: `"Please delete my data."`
-2. **Via Email:** Send an email to `zagfunne@gmail.com` with the subject line `"Data Deletion Request"`, including your Facebook profile name or Terminal Request Code.
+2. **Via Email:** Send an email to `hyperionmaritimex@gmail.com` with the subject line `"Data Deletion Request"`, including your Facebook profile name or Terminal Request Code.
 
 Upon receiving your request, any record linking your device request code or customer support exchange will be permanently removed within 30 days.
 
@@ -78,5 +78,5 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 
 If you have questions or concerns regarding this Privacy Policy or your data, contact us at:
 * **Facebook Page:** Hyperion by Nhyle
-* **Email:** `zagfunne@gmail.com`
+* **Email:** `hyperionmaritimex@gmail.com`
 * **Google Group:** https://groups.google.com/g/hyperion-maritime
